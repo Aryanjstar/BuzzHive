@@ -45,7 +45,7 @@ const Hero = () => {
               </Link> */}
 
               <Link
-                to="https://youtu.be/TGx_P_ZqODM?si=xarEUl8PBNHYYbXy"
+                to="https://www.youtube.com/watch?v=GYnDcdoyIpQ"
                 className="inline-flex items-center justify-center gap-2 bg-gray-800 text-pink-400 px-8 py-4 rounded-lg hover:bg-gray-700 transition-transform duration-300 transform hover:scale-105 border border-gray-700 shadow-sm">
                 Watch Demo
                 <Camera size={20} />
